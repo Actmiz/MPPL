@@ -1,0 +1,339 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.view-profile-light-1gR {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8b3c4;
+  border-radius: 4.4rem;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP {
+  box-sizing: border-box;
+  padding: 0rem 1.867rem 0rem 2.4rem;
+  width: 100%;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP .left-side-eUV {
+  margin: 1.2rem 2.8rem 1.1rem 0rem;
+  width: 5.4rem;
+  height: calc(100% - 2.3rem);
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP .left-side-eUV .statusbar-time-aN9 {
+  box-sizing: border-box;
+  padding: 0.1rem 1.4rem 0rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 2.4rem;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP .notch-Sv9 {
+  margin: 0rem 1.967rem 1.5rem 0rem;
+  width: 16.4rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP .right-side-yQH {
+  margin: 1.733rem 0rem 1.533rem 0rem;
+  height: calc(100% - 3.2664rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP .right-side-yQH .mobile-signal-6jo {
+  margin: 0rem 0.503rem 0rem 0rem;
+  width: 1.7rem;
+  height: 1.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP .right-side-yQH .wifi-dUq {
+  margin: 0rem 0.503rem 0.037rem 0rem;
+  width: 1.5272rem;
+  height: 1.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .statusbar-iphone-13-13-pro-MVP .right-side-yQH .battery-9xy {
+  margin-top: 0.0003rem;
+  width: 2.4328rem;
+  height: 1.1333rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-brz7-UkM {
+  margin-bottom: 1.9rem;
+  width: 37.5rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .pofile-21B {
+  margin: 0rem 0.1rem 2.7rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo {
+  width: 100%;
+  height: 66.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .ph-wallet-rW1 {
+  width: 25.6rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 13.2rem;
+  overflow: hidden;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj {
+  width: 37.5rem;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 16.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj {
+  box-sizing: border-box;
+  padding: 0.217rem 4.9rem 20.1rem 4.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-u7oz-DE5 {
+  margin: 0rem 1.917rem 2.6rem 5.15rem;
+  width: calc(100% - 7.0667rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-u7oz-DE5 .stainford-abdul-lansky-Y1T {
+  margin-right: 0.9667rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-u7oz-DE5 .uil-pen-Eus {
+  margin-bottom: 0.2165rem;
+  width: 2.1667rem;
+  height: 2.1668rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-ce2o-y6m {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 0.7rem 7.55rem 0.7rem 1.15rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-ce2o-y6m .no-6BP {
+  margin-right: 5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-ce2o-y6m .item-62-81287432143-1ZF {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-dmxo-6qb {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 0.7rem 11.1rem 0.7rem 1.15rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-dmxo-6qb .alamat-2UM {
+  margin-right: 1.95rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-dmxo-6qb .yogyakarta-xN1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-4qsy-G7o {
+  margin-bottom: 1rem;
+  box-sizing: border-box;
+  padding: 0.7rem 5.6rem 0.7rem 1.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-4qsy-G7o .email-C1T {
+  margin-right: 3.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-4qsy-G7o .abdulyahoocom-hU1 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-xn2x-bpH {
+  box-sizing: border-box;
+  padding: 0.7rem 12.45rem 0.7rem 1.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-xn2x-bpH .member-KkH {
+  margin-right: 1.15rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-hkdz-hFj .auto-group-xn2x-bpH .platinum-3gH {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .v-frame-yKj .auto-group-xucw-xYM {
+  width: 37.5rem;
+  height: 8.1rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .ellipse-7-JMK {
+  width: 15.3rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 7.65rem;
+}
+.view-profile-light-1gR .auto-group-wxxm-iPo .vector-RRw {
+  width: 9.4rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 14rem;
+  top: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}

@@ -1,0 +1,320 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.view-register-light-88V {
+  width: 100%;
+  height: 86.6rem;
+  position: relative;
+  background-color: #f8b3c4;
+  border-radius: 4.4rem;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh {
+  box-sizing: border-box;
+  padding: 0rem 1.867rem 0rem 2.4rem;
+  width: 37.5rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh .left-side-Yi1 {
+  margin: 1.2rem 2.8rem 1.1rem 0rem;
+  width: 5.4rem;
+  height: calc(100% - 2.3rem);
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh .left-side-Yi1 .statusbar-time-fGq {
+  box-sizing: border-box;
+  padding: 0.1rem 1.4rem 0rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 2.4rem;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh .notch-hzD {
+  margin: 0rem 1.967rem 1.5rem 0rem;
+  width: 16.4rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh .right-side-EUM {
+  margin: 1.733rem 0rem 1.533rem 0rem;
+  height: calc(100% - 3.2664rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh .right-side-EUM .mobile-signal-wtZ {
+  margin: 0rem 0.503rem 0rem 0rem;
+  width: 1.7rem;
+  height: 1.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh .right-side-EUM .wifi-U7o {
+  margin: 0rem 0.503rem 0.037rem 0rem;
+  width: 1.5272rem;
+  height: 1.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-register-light-88V .statusbar-iphone-13-13-pro-GEh .right-side-EUM .battery-bCR {
+  margin-top: 0.0003rem;
+  width: 2.4328rem;
+  height: 1.1333rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK {
+  box-sizing: border-box;
+  padding: 15.1rem 0rem 5.3rem 0rem;
+  width: 34.3rem;
+  height: 86.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.view-register-light-88V .v-frame-KPK .register-pay {
+  margin-bottom: 2.8999rem;
+  text-align: center;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.2058823529;
+  letter-spacing: 0.0374rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .segmentedpicker-LZK {
+  margin-bottom: 1.9999rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0.395rem 0.2rem 0.2rem;
+  width: 100%;
+  height: 3.2002rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(118, 118, 128, 0.1199999973);
+  border-radius: 0.891rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .segmentedpicker-LZK .segmentedpicker-option-3Cq {
+  margin-right: 6.65rem;
+  width: 16.95rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  line-height: 1.3846153846;
+  letter-spacing: -0.0078rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem rgba(0, 0, 0, 0.0399999991);
+  box-sizing: border-box;
+  box-shadow: 0 0.3rem 0.1rem rgba(0, 0, 0, 0.0399999991), 0 0.3rem 0.8rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.693rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .segmentedpicker-LZK .segmentedpicker-option-dgq {
+  margin: 0.5rem 0rem 0.5rem 0rem;
+  width: 10.1052rem;
+  height: calc(100% - 1.0002rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.3846153846;
+  letter-spacing: -0.0078rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  row-gap: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ .email-textfield-1hP {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem;
+  width: 100%;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: #c9c9ce;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f2f2f7;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ .email-textfield-hq7 {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem;
+  width: 100%;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: #c9c9ce;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f2f2f7;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ .email-textfield-ot9 {
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem;
+  width: 100%;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: #c9c9ce;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f2f2f7;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ .password-textfield-WnZ {
+  box-sizing: border-box;
+  padding: 1.1rem 1.4rem 1.1rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #f2f2f7;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ .password-textfield-WnZ .password-3Xb {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ .password-textfield-WnZ .password-3Xb .password-Q7F {
+  margin-right: 22.4rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: #c9c9ce;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .text-fields-USZ .password-textfield-WnZ .password-3Xb .item--Kzu {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: rgba(60, 60, 67, 0.3000000119);
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .frame-button-dVo {
+  margin-bottom: 7rem;
+  width: 100%;
+  height: 4.4rem;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #007aff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .v-frame-K7j {
+  margin: 0rem 12rem 17.4rem 0.05rem;
+  width: calc(100% - 12.05rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .v-frame-K7j .sudah-punya-akun-qrm {
+  margin-right: 1.05rem;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .v-frame-K7j .login-ZXs {
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2941176471;
+  letter-spacing: -0.0408rem;
+  text-decoration-line: underline;
+  color: #007aff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-register-light-88V .v-frame-KPK .home-indicator-fqo {
+  margin: 0rem 10.4rem 0rem 10.5rem;
+  width: calc(100% - 20.9rem);
+  height: 0.5rem;
+  background-color: #000000;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}

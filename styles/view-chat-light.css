@@ -1,0 +1,425 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.view-chat-light-an9 {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8b3c4;
+  border-radius: 4.4rem;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD {
+  box-sizing: border-box;
+  padding: 0rem 1.867rem 0rem 2.4rem;
+  width: 100%;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD .left-side-2PF {
+  margin: 1.2rem 2.8rem 1.1rem 0rem;
+  width: 5.4rem;
+  height: calc(100% - 2.3rem);
+  border-radius: 2.4rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD .left-side-2PF .statusbar-time-ka9 {
+  box-sizing: border-box;
+  padding: 0.1rem 1.4rem 0rem 1.4rem;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 2.4rem;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD .notch-p4D {
+  margin: 0rem 1.967rem 1.5rem 0rem;
+  width: 16.4rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD .right-side-YF7 {
+  margin: 1.733rem 0rem 1.533rem 0rem;
+  height: calc(100% - 3.2664rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD .right-side-YF7 .mobile-signal-fqX {
+  margin: 0rem 0.503rem 0rem 0rem;
+  width: 1.7rem;
+  height: 1.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD .right-side-YF7 .wifi-zso {
+  margin: 0rem 0.503rem 0.037rem 0rem;
+  width: 1.5272rem;
+  height: 1.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .statusbar-iphone-13-13-pro-vLD .right-side-YF7 .battery-7hX {
+  margin-top: 0.0003rem;
+  width: 2.4328rem;
+  height: 1.1333rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-ytqx-EXF {
+  margin-bottom: 1rem;
+  width: 37.5rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .chat-Mrm {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.3333333333;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-zmko-sq7 {
+  margin: 0rem 1.7rem 1.7rem 1.7rem;
+  box-sizing: border-box;
+  padding: 0.8rem 8.55rem 1.2rem 1.9rem;
+  width: calc(100% - 3.4rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-zmko-sq7 .vector-mfb {
+  margin: 0.4rem 1.65rem 0rem 0rem;
+  width: 5.9rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-zmko-sq7 .auto-group-d6yh-Htq {
+  margin-bottom: 1.3rem;
+  width: 16.1rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-zmko-sq7 .auto-group-d6yh-Htq .alex-dxh {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-zmko-sq7 .auto-group-d6yh-Htq .terimakasih-pak-atas-waktunya-9RF {
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd {
+  width: 100%;
+  height: 59.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .ph-wallet-nj7 {
+  width: 25.6rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 5.9rem;
+  overflow: hidden;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo {
+  width: 37.5rem;
+  height: 59.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys {
+  box-sizing: border-box;
+  padding: 0rem 1.6rem 2.1rem 1.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-if2j-aus {
+  margin: 0rem 0.1rem 2.1rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 20.25rem 1.2rem 2rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-if2j-aus .vector-H3b {
+  margin-right: 1.5rem;
+  width: 5.9rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-if2j-aus .auto-group-yyzd-pZK {
+  margin-bottom: 0.8rem;
+  width: 4.45rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-if2j-aus .auto-group-yyzd-pZK .boby-xvR {
+  margin-bottom: 0.9rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-if2j-aus .auto-group-yyzd-pZK .baik-kak-tJH {
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-nseb-neZ {
+  margin: 0rem 0.1rem 1.7rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 13.75rem 1.2rem 2rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-nseb-neZ .vector-57s {
+  margin-right: 1.5rem;
+  width: 5.9rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-nseb-neZ .auto-group-padh-1nD {
+  margin-bottom: 0.9rem;
+  width: 10.95rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-nseb-neZ .auto-group-padh-1nD .nabilla-9tR {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-nseb-neZ .auto-group-padh-1nD .sudah-sampai-ya-kak-t5K {
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-jh7q-ycZ {
+  margin: 0rem 0rem 1.7rem 0.1rem;
+  box-sizing: border-box;
+  padding: 1.2rem 13.85rem 1.2rem 1.8rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-jh7q-ycZ .vector-gWy {
+  margin-right: 1.65rem;
+  width: 5.9rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-jh7q-ycZ .auto-group-fowz-RDf {
+  margin-bottom: 0.9rem;
+  width: 10.9rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-jh7q-ycZ .auto-group-fowz-RDf .sasa-N8u {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-jh7q-ycZ .auto-group-fowz-RDf .sudah-sampai-ya-kak-hBB {
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-xjkr-Pph {
+  margin: 0rem 0rem 2.1rem 0.1rem;
+  box-sizing: border-box;
+  padding: 1.2rem 11.9rem 1.2rem 1.9rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-xjkr-Pph .vector-W8d {
+  margin-right: 1.1rem;
+  width: 5.9rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-xjkr-Pph .auto-group-c4sv-FM7 {
+  margin-bottom: 0.8rem;
+  width: 13.3rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-xjkr-Pph .auto-group-c4sv-FM7 .poppy-zpV {
+  margin-bottom: 0.9rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-xjkr-Pph .auto-group-c4sv-FM7 .sampai-ketemu-nanti-kak-8A1 {
+  width: 100%;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-hal3-Dx9 {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding: 1.2rem 21.75rem 1.2rem 1.9rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-hal3-Dx9 .vector-YjX {
+  margin-right: 1.35rem;
+  width: 5.9rem;
+  height: 5.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-ezhm-rys .auto-group-hal3-Dx9 .verdy-HSD {
+  margin-bottom: 3.9rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.8181818182;
+  letter-spacing: -0.05rem;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.view-chat-light-an9 .auto-group-uknw-3Wd .v-frame-XRo .auto-group-6jww-agD {
+  width: 37.5rem;
+  height: 8.1rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
